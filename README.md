@@ -14,8 +14,6 @@ Problem Statement: Design and implement a Java console application for an Airlin
 Check-in system that handles flights, seats, bookings, payments, and boarding passes. The
 application should demonstrate object-oriented principles and prevent double booking.
 
-Department of Computer Science and Engineering
-
 
 Class Requirements: Flight, Aircraft, Seat, Passenger, Booking, Payment, BoardingPass
 Business Rules:
